@@ -25,8 +25,9 @@ This Blog API is designed to help users share posts.
 ## Requirements
 
 - PHP >= 8.1
-- Composer
+- Composer >= 2.5.5
 - Laravel >= 9.0
+- Apache >= 2.0
 - MySQL or other compatible database
 
 ## Installation
@@ -71,12 +72,11 @@ This Blog API is designed to help users share posts.
 
 ## Usage
 
-- Access the application in your Api Handeling App at `http://127.0.0.1/:8000/api/`.
+- Access url in your browser To show all docs `http://localhost/request-docs/`.
 - Register by `http://127.0.0.1/:8000/api/register`
 - Login by `http://127.0.0.1/:8000/api/login`
 - logout by `http://127.0.0.1/:8000/api/logout`
 - and use `/posts` with Methods [Post : to create a new post, Get : to show all posts]
-
 - and use `/posts/{id}` with Methods [Put : To Update Post, Get : to show one post, Delete : to delete one post]
 
 ## Contributing
