@@ -34,13 +34,13 @@ This Blog API is designed to help users share posts.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mahmoud72E/Istrotech_Task.git
+   git clone https://github.com/Mahmoud72E/task_blog_msol.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Istrotech_Task
+   cd task_blog_msol
    ```
 
 3. Install the dependencies:
@@ -81,4 +81,4 @@ This Blog API is designed to help users share posts.
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Mahmoud72E/Istrotech_Task/issues) or submit a pull request.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Mahmoud72E/task_blog_msol/issues) or submit a pull request.
